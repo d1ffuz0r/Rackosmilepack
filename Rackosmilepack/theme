@@ -1,118 +1,129 @@
-Name=Rackosmilepack0.2
-Description=Racko smile
+Name=RackosmilepackFinal
+Description=original smile author Saske-Kun
 Icon=et.gif
 Author=d1ffuz0r@jabber.ru
 
 
 # Default smileys
 [default]
-aa.gif		:awesome:	*JOKINGLY*
-ab.gif		:dowant:	:-[
-ac.gif		:awesome2:	^^ ^_^
-ad.gif		:shutka:
-ae.gif		:awesome3:	:-\
-af.gif		:awesome4:	:-|
-ag.gif		:awesome5:
-ah.gif		:awesome6:
-ai.gif		:butthurt:
-aj.gif		:varg:
-ak.gif		:angry:		*WALL*
-al.gif		:sad:	:(	(	:-( (
-am.gif		:sleep:	*TIRED*
-an.gif		:cry:	:'( :,(
-ao.gif		:hurt:
-ap.gif		:happy:	;D
-aq.gif		:slownya:	*KISSING*
-ar.gif		:smile:		xD	:-D	:-d	:D	:d	xd	XD
-as.gif		:aaawesome:
-at.gif		:lol:	*LOL* lol lold olol i'lold
-au.gif		:batut:
-av.gif		:awesome7:	*KISSED*
-aw.gif		:awesome8:	[:-}
-ax.gif		:awesome9:	:)	:-)
-ay.gif		:kishki:
-bx.gif		:nomad:
-by.gif		:rage:	]:->
-bz.gif		:shit:	@}->--
-ca.gif		:zapili:
-cb.gif		:slow:
-cc.gif		:shutnik:	*BRAVO*
-cd.gif		:octocat:
-ce.gif		:oil:
-cf.gif		:lolwto:	=-O
-cg.gif		:fffuuu:	%)
-cg1.gif		:trollface:	:-P
-ch.gif		:coolface:
-ci.gif		:serious:	8-)
-cl.gif		:lold:	*ROFL*
-cm.gif		:nonemo:
-cn.gif		:malaca:	*THUMBS UP*
-co.gif		:not_rec:	*STOP*
-cp.gif		:pedo:
-cq.gif		:troll:	:-!
-cr.gif		:partywan:	*BYE*
-cs.gif		:ben:	>:o
-ct.gif		:bugurt:
-cu.gif		:win:
-cv.gif		:orly:
-cw.gif		:cancer1:	*HI*
-cx.gif		:cancer2:
-cy.gif		:nazi:
-da.gif		:omsk:
-db.gif		:vanga:
-dc.gif		:yeah:
-df.gif		:bemale:
-dk.gif		:nou:		*NO*
-dl.gif		:piston:
-dn.gif		:petr:
-do.gif		:facepalm:	facepalm.jpg	facepalm.png	facepalm.bmp
-dp.gif		:slow2:
-dq.gif		:ato:	*YES*
-dr.gif		:trifors:
-ds.gif		:sarcasm:
-du.gif		:infa:
-dv.gif		:alfa:	\m/
-dw.gif		:brofist:
-dx.gif		:okay:		*OK*
-dz.gif		:alone:
-eb.gif		:Nariman:
-ec.gif		:sguxa:
-ed.gif		:hanyu:
-ee.gif		:horo:
-ef.gif		:pee:
-eg.gif		:puru:	O:-)
-eh.gif		:reimu:
-ej.gif		:cirno:
-ek.gif		:vanila:
-el.gif		:orin:
-em.gif		:chen:
-en.gif		:gtfo:
-eo.gif		:pokerface:
-ep.gif		:myeyes:	*WASSUP*
-eq.gif		:bbpe:
-er.gif		:plan:
-es.gif		:dog:
-et.gif		:anon:
-ev.gif		:marisa:
-ew.gif		:alice:	:-*
-ex.gif		:jew:
-ey.gif		:goblin:
-ez.gif		:frai:	*SCRATCH*
-fa.gif		:miku:
-fb.gif		:cuntfox:
-fc.gif		:ohu:	;-)
-fd.gif		:haha:
-fe.gif		:1402:	*IN LOVE*
-ff.gif		:2302:	*DRINK*
-fg.gif		:0803:
-fh.gif		:mizore:
-fi.gif		:desu:
-fj.gif		:ponya:
-fk.gif		:brick:
-fl.gif		:keanu:	*SORRY*
-fn.gif		:do_it:
-fo.gif		:sparta:	*HELP*
-fp.gif		:hui_prostoi:
-fq.gif		:moar:	*WRITE*
-fr.gif		:boom:	@=
-fs.gif		:Saske-kun:
+aa.gif :awesome: 
+ab.gif :dowant: 
+ac.gif :awesome2: 
+ad.gif :shutka: 
+ae.gif :awesome3: 
+af.gif :awesome4: 
+ag.gif :awesome5: 
+ah.gif :awesome6: 
+ai.gif :butthurt: 
+aj.gif :varg: 
+ak.gif :angry: 
+al.gif :sad: 
+am.gif :sleep: 
+an.gif :cry: 
+ao.gif :hurt: 
+ap.gif :happy: 
+aq.gif :slownya: 
+ar.gif :smile: 
+as.gif :aaawesome: 
+at.gif :lol: 
+au.gif :batut: 
+av.gif :awesome7: 
+aw.gif :awesome8: 
+ax.gif :awesome9: 
+ay.gif :kishki: 
+az.gif :awesome10: 
+az1.gif :awesome11: 
+az2.gif :awesome12: 
+az3.gif :awesome13: 
+az4.gif :awesome14: 
+az5.gif :awesome15: 
+az6.gif :shy: 
+az7.gif :ilita: 
+az8.gif :awesome16: 
+az9.gif :awesome17: 
+az11.gif :awesome18: 
+bx.gif :nomad: 
+by.gif :rage: 
+bz.gif :shit: 
+ca.gif :zapili: 
+cb.gif :slow: 
+cc.gif :shutnik: 
+cd.gif :octocat: 
+ce.gif :oil: 
+cf.gif :lolwto: 
+cg.gif :fffuuu: 
+cg1.gif :trollface: 
+ch.gif :coolface: 
+ci.gif :serious: 
+cl.gif :lold: 
+cm.gif :nonemo: 
+cn.gif :malaca: 
+co.gif :not_rec: 
+cp.gif :pedo: 
+cq.gif :troll: 
+cr.gif :partywan: 
+cs.gif :ben: 
+ct.gif :bugurt: 
+cu.gif :win: 
+cv.gif :orly: 
+cw.gif :cancer1: 
+cx.gif :cancer2: 
+cy.gif :nazi: 
+da.gif :omsk: 
+db.gif :vanga: 
+dc.gif :yeah: 
+df.gif :bemale: 
+dk.gif :nou: 
+dl.gif :piston: 
+dn.gif :petr: 
+do.gif :facepalm: 
+dp.gif :slow2: 
+dq.gif :ato: 
+dr.gif :trifors: 
+ds.gif :sarcasm: 
+du.gif :infa: 
+dv.gif :alfa: 
+dw.gif :brofist: 
+dx.gif :okay: 
+dz.gif :alone: 
+eb.gif :Nariman: 
+ec.gif :sguxa: 
+ed.gif :hanyu: 
+ee.gif :horo: 
+ef.gif :pee: 
+eg.gif :puru: 
+eh.gif :reimu: 
+ej.gif :cirno: 
+ek.gif :vanila: 
+el.gif :orin: 
+em.gif :chen: 
+en.gif :gtfo: 
+eo.gif :pokerface: 
+ep.gif :myeyes: 
+eq.gif :bbpe: 
+er.gif :plan: 
+es.gif :dog: 
+et.gif :anon: 
+ev.gif :marisa: 
+ew.gif :alice: 
+ex.gif :jew: 
+ey.gif :goblin: 
+ez.gif :frai: 
+fa.gif :miku: 
+fb.gif :cuntfox: 
+fc.gif :ohu: 
+fd.gif :haha: 
+fe.gif :laffki: 
+fg.gif :hoho: 
+fh.gif :mizore: 
+fi.gif :desu: 
+fj.gif :ponya: 
+fk.gif :brick: 
+fl.gif :keanu: 
+fn.gif :do_it: 
+fo.gif :sparta: 
+fp.gif :hui_prostoi: 
+fq.gif :moar: 
+fr.gif :boom: 
+ft.gif :what: 
+fu.gif :pled:
