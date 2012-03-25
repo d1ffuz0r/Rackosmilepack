@@ -1,11 +1,11 @@
 Install
 =====
 
-Pidgin:
+Pidgin (branch `master`):
     Windows: Rackosmilepack copy to %path/to/install%/Pidgin/pixmaps/pidgin/emotes
     Linux: copy to ~/.purple/smileys/
-Miranda:
+Miranda (branch `miranda`):
     Windows: Rackosmilepack copy to %path/to/install%/Customize/Smileys/
-Leechcraft:
+Leechcraft (branch `leechcraft`):
     Linux: Rackosmile copy to ~/.leechcraft/data/azoth/emoticons/native/
     Windows: ???
