@@ -491,6 +491,10 @@
 		<object mime="image/gif">ee.gif</object>
 	</icon>
 	<icon>
+		<text>:chen:</text>
+		<object mime="image/gif">em.gif</object>
+	</icon>
+	<icon>
 		<text>:miku:</text>
 		<object mime="image/gif">ef.gif</object>
 	</icon>

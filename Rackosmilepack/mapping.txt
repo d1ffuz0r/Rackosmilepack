@@ -121,6 +121,7 @@ ew.gif :alice:
 ev.gif :marisa:
 ed.gif :chirno:
 ee.gif :orin:
+em.gif :chen:
 ef.gif :miku:
 eg.gif :desu:
 fj.gif :ponya:
