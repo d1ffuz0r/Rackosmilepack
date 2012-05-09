@@ -22,4 +22,4 @@ Psi
 
 Preview
 ====
-![Preview](http://github.com/d1ffuz0r/Rackosmilepack/raw/master/preview.png)
+![Preview](https://github.com/d1ffuz0r/Rackosmilepack/raw/master/preview.png)
