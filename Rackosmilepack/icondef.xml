@@ -436,6 +436,15 @@
 	<icon>
 		<text>:cuntfox:</text>
 		<object mime="image/gif">dx.gif</object>
+	</icon>   
+    
+	<icon>
+		<text>:1402:</text>
+		<object mime="image/gif">fe.gif</object>
+	</icon>
+	<icon>
+		<text>:2302:</text>
+		<object mime="image/gif">ff.gif</object>
 	</icon>
 	<icon>
 		<text>:pled:</text>
@@ -462,6 +471,22 @@
 		<object mime="image/gif">ed.gif</object>
 	</icon>
 	<icon>
+		<text>:mizore:</text>
+		<object mime="image/gif">fh.gif</object>
+	</icon>
+	<icon>
+		<text>:sparta:</text>
+		<object mime="image/gif">fo.gif</object>
+	</icon>
+	<icon>
+		<text>:alice:</text>
+		<object mime="image/gif">ew.gif</object>
+	</icon>
+	<icon>
+		<text>:marisa:</text>
+		<object mime="image/gif">ev.gif</object>
+	</icon>
+	<icon>
 		<text>:orin:</text>
 		<object mime="image/gif">ee.gif</object>
 	</icon>
@@ -484,6 +509,10 @@
 	<icon>
 		<text>:salo:</text>
 		<object mime="image/gif">sal.gif</object>
+	</icon>
+	<icon>
+		<text>:ponya:</text>
+		<object mime="image/gif">fj.gif</object>
 	</icon>
 	<icon>
 		<text>:seasnail:</text>
