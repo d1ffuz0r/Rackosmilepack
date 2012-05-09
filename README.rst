@@ -18,3 +18,7 @@ Leechcraft
 Psi
 ----
  * ???
+
+ Preview
+ ====
+![Preview](https://github.com/d1ffuz0r/Rackosmilepack/blob/master/preview.png)
