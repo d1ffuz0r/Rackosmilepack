@@ -19,7 +19,3 @@ Psi
 ----
  * Linux: ???
  * Windows: C:\Program Files\Psi+\iconsets\emoticons\Racksmilepack
-
-Preview
-====
-![Preview](https://github.com/d1ffuz0r/Rackosmilepack/raw/master/preview.png)
