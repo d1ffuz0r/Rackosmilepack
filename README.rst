@@ -18,4 +18,4 @@ Leechcraft
 Psi
 ----
  * Linux: ???
- * Windows: C:\Program Files\Psi+\iconsets\emoticons\Racksmilepack
+ * Windows: C:/Program Files/Psi+/iconsets/emoticons/Racksmilepack
