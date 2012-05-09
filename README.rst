@@ -1,9 +1,11 @@
 Install
 =====
 
+Copy `Rackosmilepack` directory to catalog:
+
 Pidgin
 ----
- * Windows: %path/to/install%/Pidgin/pixmaps/pidgin/emotes
+ * Windows: %path/to/install%/Pidgin/pixmaps/pidgin/emotes/
  * Linux: ~/.purple/smileys/
 
 Miranda
@@ -18,4 +20,4 @@ Leechcraft
 Psi
 ----
  * Linux: ???
- * Windows: C:/Program Files/Psi+/iconsets/emoticons/Racksmilepack
+ * Windows: C:/Program Files/Psi+/iconsets/emoticons/
