@@ -24,5 +24,4 @@ Psi
 
 Adium
 -----
- * Mac OS X: 'open Rackosmilepack.AdiumEmoticonset' or double click on
- * Rackosmilepack.AdiumEmoticonset and restart Adium
+ * Mac OS X: 'open Rackosmilepack.AdiumEmoticonset' or double click on Rackosmilepack.AdiumEmoticonset and restart Adium
